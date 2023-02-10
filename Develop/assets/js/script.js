@@ -1,7 +1,8 @@
 // globals
 var nfts = 50; // max fetchs of nfts 
 var nftOnHome = 8 // nft to display in homepage
-var apiKey = "64ca22d3-4e46-460a-908c-6a898d383d17"
+var apiKey = "675f7dd4-d61b-47c2-a41b-ee67600d6851"
+
 var numberFormatter = Intl.NumberFormat('en-US');
 
 var featured = [
@@ -24,12 +25,9 @@ var featured = [
                 {name: "Dave Chapelle" , wallet: "0x33560bB4E2c132346980890A04193616359A04Dc"},
                 {name: "Future" , wallet: "0x1616b4C7cdb4093BeFBCca62F3198993327a8e9e"},
                 {name: "Jake Paul" , wallet: "0xe4bbcbff51e61d0d95fcc5016609ac8354b177c4"},
-                {name: "Scotty Sire" , wallet: "0xd0a1454963fb17f427fe744a084facd0ed60a774"},
                 {name: "Lil Mayo" , wallet: "0xa582047f7e50acbc8667523e7f62c200709beaed"},
-                {name: "Ben Philips" , wallet: "0x53295d7932767839df07eb175ef03a24dcf3c278"},
                 {name: "Shaquille O’Neal" , wallet: "0x3c6aeff92b4b35c2e1b196b57d0f8ffb56884a17"},
                 {name: "Seth Curry" , wallet: "0x9114b66e4bd387eb832d1477e86ede0cf7f76115"},
-                {name: "Tyrese Haliburton" , wallet: "0xadadfa4213cb8baaad1abe99c8a863a4d0a94cc5"},
                 {name: "Lindsay Lohan" , wallet: "0x3781d92e5449b5b689fee308ded44882085b6312"},
                 {name: "Eminem" , wallet: "0x79f261f483b7cef4f995c1f8a0f46f88450423e3"},
                 {name: "Jay Z" , wallet: "0x3b417faee9d2ff636701100891dc2755b5321cc3"}
