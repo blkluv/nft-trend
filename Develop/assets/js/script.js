@@ -6,12 +6,9 @@ var numberFormatter = Intl.NumberFormat('en-US');
 
 var featured = [
                 {name: "Steve Aoki" , wallet: "0xe4bbcbff51e61d0d95fcc5016609ac8354b177c4"},
-                {name: "Snoop Dogg" , wallet: "0xce90a7949bb78892f159f428d0dc23a8e3584d75"},
+                {name: "Snoop Dogg" , wallet: "0xE0036fb4B5A3B232aCfC01fEc3bD1D787a93da75"},
                 {name: "Zach Hyman" , wallet: "0x991091D5596484f3153aC8707c76Ec79f6D353ED"},
                 {name: "Alexis Ohanian" , wallet: "0x0ed1e02164a2a9fad7a9f9b5b9e71694c3fad7f2"},
-                {name: "Gary Vaynerchuk" , wallet: "0xd6a984153acb6c9e2d788f08c2465a1358bb89a7"},
-                {name: "Justin Bieber" , wallet: "0xE21DC18513e3e68a52F9fcDaCfD56948d43a11c6"},
-                {name: "Mark Cuban" , wallet: "0xa679c6154b8d4619af9f83f0bf9a13a680e01ecf"},
                 {name: "Paris Hilton" , wallet: "0xb6aa5a1aa37a4195725cdf1576dc741d359b56bd"},
                 {name: "Eva Longoria" , wallet: "0xaa1b056286a66a9e6752c26776ac034c662a51d5"},
                 {name: "Madonna" , wallet: "0x8ea95Bdc5cDddC0b7EbAd841F0c1f2cA6168b6a9"},
