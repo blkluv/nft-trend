@@ -72,7 +72,7 @@ section {
 }
 
 .input::placeholder {
-    color:#a7a7a7;
+    color:#323031;
 }
 
 .no-display {
@@ -190,7 +190,7 @@ section {
 .doc h2 {
     font-size: var(--main-font);
     margin-bottom: 30px;
-    color: turquoise;
+    color: #00FFFF;
 }
 
 .doc-content p {
@@ -211,7 +211,7 @@ section {
 
 .contact {
     padding: 80px 17%;
-    background: #495fc7;
+    background: #485FC7;
 }
 
 .main-contact {
@@ -262,7 +262,7 @@ section {
 
 .action form input[type="submit"] {
     padding: 10px 35px;
-    background: turquoise;
+    background: #00FFFF;
     color: black;
     border: none;
     outline: none;
