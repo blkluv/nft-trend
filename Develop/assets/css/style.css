@@ -227,6 +227,10 @@ section {
     font-weight: 800;
 }
 
+.subtitle {
+    font-size: 0.75rem; /* or any other value you prefer */
+  }  
+
 .contact-content li {
     margin-bottom: 15px;
 }
